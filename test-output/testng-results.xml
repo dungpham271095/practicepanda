@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-30T21:54:22 ICT" name="Tech Panda" finished-at="2023-07-30T21:54:40 ICT" duration-ms="17397">
+    <groups>
+    </groups>
+    <test started-at="2023-07-30T21:54:22 ICT" name="Run on Chrome browser" finished-at="2023-07-30T21:54:30 ICT" duration-ms="7541">
+      <class name="com.techpanda.account.Level_9">
+        <test-method is-config="true" signature="beforeClass(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.techpanda.account.Level_9@3e62d773]" started-at="2023-07-30T21:54:22 ICT" name="beforeClass" finished-at="2023-07-30T21:54:27 ICT" duration-ms="5193" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://live.techpanda.org/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://live.techpanda.org/index.php/backendlogin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TC_01(java.lang.reflect.Method)[pri:0, instance:com.techpanda.account.Level_9@3e62d773]" started-at="2023-07-30T21:54:27 ICT" name="TC_01" finished-at="2023-07-30T21:54:29 ICT" duration-ms="1259" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.techpanda.account.Level_9.TC_01(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method signature="TC_02(java.lang.reflect.Method)[pri:0, instance:com.techpanda.account.Level_9@3e62d773]" started-at="2023-07-30T21:54:29 ICT" name="TC_02" finished-at="2023-07-30T21:54:30 ICT" duration-ms="1066" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.techpanda.account.Level_9.TC_02(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
+      </class> <!-- com.techpanda.account.Level_9 -->
+    </test> <!-- Run on Chrome browser -->
+    <test started-at="2023-07-30T21:54:30 ICT" name="Run on Firefox browser" finished-at="2023-07-30T21:54:40 ICT" duration-ms="9691">
+      <class name="com.techpanda.account.Level_9">
+        <test-method is-config="true" signature="beforeClass(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.techpanda.account.Level_9@56dc1551]" started-at="2023-07-30T21:54:30 ICT" name="beforeClass" finished-at="2023-07-30T21:54:37 ICT" duration-ms="7292" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://live.techpanda.org/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[http://live.techpanda.org/index.php/backendlogin]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="TC_01(java.lang.reflect.Method)[pri:0, instance:com.techpanda.account.Level_9@56dc1551]" started-at="2023-07-30T21:54:37 ICT" name="TC_01" finished-at="2023-07-30T21:54:38 ICT" duration-ms="1207" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.techpanda.account.Level_9.TC_01(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_01 -->
+        <test-method signature="TC_02(java.lang.reflect.Method)[pri:0, instance:com.techpanda.account.Level_9@56dc1551]" started-at="2023-07-30T21:54:38 ICT" name="TC_02" finished-at="2023-07-30T21:54:40 ICT" duration-ms="1190" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.techpanda.account.Level_9.TC_02(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_02 -->
+      </class> <!-- com.techpanda.account.Level_9 -->
+    </test> <!-- Run on Firefox browser -->
+  </suite> <!-- Tech Panda -->
+</testng-results>

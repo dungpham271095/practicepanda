@@ -1,0 +1,162 @@
+[INFO ] [2023-07-05 21:20:55,019] Login_01 - step 01: click to my account link
+[INFO ] [2023-07-05 21:20:55,862] Login_01 - step 02: input value eamil textbox
+[INFO ] [2023-07-05 21:20:56,011] Login_01 - step 03: input value pass textbox
+[INFO ] [2023-07-05 21:20:56,099] Login_01 - step 04: click to login
+[INFO ] [2023-07-05 21:20:56,176] Login_01 - step 05: verify err message is displayed
+[INFO ] [2023-07-05 21:21:02,041] Login_01 - step 01: click to my account link
+[INFO ] [2023-07-05 21:21:03,005] Login_01 - step 02: input value eamil textbox
+[INFO ] [2023-07-05 21:21:03,040] Login_01 - step 03: input value pass textbox
+[INFO ] [2023-07-05 21:21:03,077] Login_01 - step 04: click to login
+[INFO ] [2023-07-05 21:21:03,330] Login_01 - step 05: verify err message is displayed
+[INFO ] [2023-07-05 21:22:21,634] Login_01 - step 01: click to my account link
+[INFO ] [2023-07-05 21:22:22,521] Login_01 - step 02: input value eamil textbox
+[INFO ] [2023-07-05 21:22:22,675] Login_01 - step 03: input value pass textbox
+[INFO ] [2023-07-05 21:22:22,756] Login_01 - step 04: click to login
+[INFO ] [2023-07-05 21:22:22,827] Login_01 - step 05: verify err message is displayed
+[INFO ] [2023-07-05 21:22:29,779] Login_01 - step 01: click to my account link
+[INFO ] [2023-07-05 21:22:30,780] Login_01 - step 02: input value eamil textbox
+[INFO ] [2023-07-05 21:22:30,814] Login_01 - step 03: input value pass textbox
+[INFO ] [2023-07-05 21:22:30,847] Login_01 - step 04: click to login
+[INFO ] [2023-07-05 21:22:31,100] Login_01 - step 05: verify err message is displayed
+[INFO ] [2023-07-16 21:18:01,574] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-16 21:18:02,367] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-16 21:18:02,508] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-16 21:18:02,595] Login_01 - step 04: click to login button
+[INFO ] [2023-07-16 21:18:02,671] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-16 21:18:08,889] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-16 21:18:09,738] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-16 21:18:09,772] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-16 21:18:09,809] Login_01 - step 04: click to login button
+[INFO ] [2023-07-16 21:18:10,063] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-17 21:26:17,434] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-17 21:26:18,226] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-17 21:26:18,392] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-17 21:26:18,478] Login_01 - step 04: click to login button
+[INFO ] [2023-07-17 21:26:18,562] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-17 21:26:18,673] Login_02 - step 01: 
+[INFO ] [2023-07-17 21:26:26,943] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-17 21:26:27,837] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-17 21:26:27,872] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-17 21:26:27,903] Login_01 - step 04: click to login button
+[INFO ] [2023-07-17 21:26:28,167] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-17 21:26:28,232] Login_02 - step 01: 
+[INFO ] [2023-07-17 21:33:30,862] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-17 21:33:31,618] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-17 21:33:31,770] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-17 21:33:31,854] Login_01 - step 04: click to login button
+[INFO ] [2023-07-17 21:33:31,918] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-17 21:33:32,019] Login_02 - step 01: 
+[INFO ] [2023-07-17 21:33:38,925] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-17 21:33:39,812] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-17 21:33:39,847] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-17 21:33:39,892] Login_01 - step 04: click to login button
+[INFO ] [2023-07-17 21:33:40,149] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-17 21:33:40,210] Login_02 - step 01: 
+[INFO ] [2023-07-17 21:51:07,707] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-17 21:51:09,153] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-17 21:51:09,309] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-17 21:51:09,397] Login_01 - step 04: click to login button
+[INFO ] [2023-07-17 21:51:09,472] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-17 21:51:09,574] Login_02 - step 01: 
+[INFO ] [2023-07-17 21:51:15,902] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-17 21:51:16,750] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-17 21:51:16,784] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-17 21:51:16,826] Login_01 - step 04: click to login button
+[INFO ] [2023-07-17 21:51:17,081] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-17 21:51:17,139] Login_02 - step 01: 
+[INFO ] [2023-07-17 21:55:27,393] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-17 21:55:28,173] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-17 21:55:28,325] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-17 21:55:28,433] Login_01 - step 04: click to login button
+[INFO ] [2023-07-17 21:55:28,499] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-17 21:55:28,591] Login_02 - step 01: 
+[INFO ] [2023-07-17 21:55:35,408] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-17 21:55:36,257] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-17 21:55:36,286] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-17 21:55:36,323] Login_01 - step 04: click to login button
+[INFO ] [2023-07-17 21:55:36,577] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-17 21:55:36,632] Login_02 - step 01: 
+[INFO ] [2023-07-21 16:41:55,840] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-21 16:41:57,020] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-21 16:41:57,354] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-21 16:41:57,511] Login_01 - step 04: click to login button
+[INFO ] [2023-07-21 16:41:57,644] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-21 16:41:57,899] Login_02 - step 01: 
+[INFO ] [2023-07-21 16:42:08,751] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-21 16:42:10,066] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-21 16:42:10,124] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-21 16:42:10,186] Login_01 - step 04: click to login button
+[INFO ] [2023-07-21 16:42:10,505] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-21 16:42:10,642] Login_02 - step 01: 
+[INFO ] [2023-07-23 20:35:46,208] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-23 20:35:47,001] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-23 20:35:47,154] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-23 20:35:47,234] Login_01 - step 04: click to login button
+[INFO ] [2023-07-23 20:35:47,304] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-23 20:35:47,399] Login_02 - step 01: 
+[INFO ] [2023-07-23 20:35:54,473] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-23 20:35:55,312] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-23 20:35:55,350] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-23 20:35:55,382] Login_01 - step 04: click to login button
+[INFO ] [2023-07-23 20:35:55,631] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-23 20:35:55,693] Login_02 - step 01: 
+[INFO ] [2023-07-23 22:32:02,686] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-23 22:32:03,462] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-23 22:32:03,615] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-23 22:32:03,706] Login_01 - step 04: click to login button
+[INFO ] [2023-07-23 22:32:03,777] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-23 22:32:03,875] Login_02 - step 01: 
+[INFO ] [2023-07-23 22:32:11,475] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-23 22:32:12,324] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-23 22:32:12,358] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-23 22:32:12,391] Login_01 - step 04: click to login button
+[INFO ] [2023-07-23 22:32:12,644] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-23 22:32:12,702] Login_02 - step 01: 
+[INFO ] [2023-07-30 20:56:08,146] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-30 20:56:08,935] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-30 20:56:09,079] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-30 20:56:09,197] Login_01 - step 04: click to login button
+[INFO ] [2023-07-30 20:56:09,277] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-30 20:56:09,382] Login_02 - step 01: 
+[INFO ] [2023-07-30 20:56:17,322] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-30 20:56:18,612] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-30 20:56:18,648] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-30 20:56:18,685] Login_01 - step 04: click to login button
+[INFO ] [2023-07-30 20:56:18,937] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-30 20:56:19,000] Login_02 - step 01: 
+[INFO ] [2023-07-30 20:56:44,651] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-30 20:56:45,417] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-30 20:56:45,556] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-30 20:56:45,642] Login_01 - step 04: click to login button
+[INFO ] [2023-07-30 20:56:45,713] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-30 20:56:45,815] Login_02 - step 01: 
+[INFO ] [2023-07-30 20:56:52,107] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-30 20:56:52,963] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-30 20:56:52,996] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-30 20:56:53,033] Login_01 - step 04: click to login button
+[INFO ] [2023-07-30 20:56:53,289] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-30 20:56:53,344] Login_02 - step 01: 
+[INFO ] [2023-07-30 20:58:29,847] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-30 20:58:30,612] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-30 20:58:30,765] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-30 20:58:30,855] Login_01 - step 04: click to login button
+[INFO ] [2023-07-30 20:58:30,927] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-30 20:58:31,027] Login_02 - step 01: 
+[INFO ] [2023-07-30 20:58:37,664] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-30 20:58:38,489] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-30 20:58:38,527] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-30 20:58:38,562] Login_01 - step 04: click to login button
+[INFO ] [2023-07-30 20:58:38,810] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-30 20:58:38,863] Login_02 - step 01: 
+[INFO ] [2023-07-30 21:36:24,912] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-30 21:36:25,680] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-30 21:36:25,801] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-30 21:36:25,925] Login_01 - step 04: click to login button
+[INFO ] [2023-07-30 21:36:26,004] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-30 21:36:26,091] Login_02 - step 01: 
+[INFO ] [2023-07-30 21:36:33,850] Login_01 - step 01: Click to my account link
+[INFO ] [2023-07-30 21:36:34,662] Login_01 - step 02: enter to email address textbox with empty data
+[INFO ] [2023-07-30 21:36:34,697] Login_01 - step 03: enter to password textbox with empty data
+[INFO ] [2023-07-30 21:36:34,734] Login_01 - step 04: click to login button
+[INFO ] [2023-07-30 21:36:34,985] Login_01 - step 05: verify error message is displayed
+[INFO ] [2023-07-30 21:36:35,045] Login_02 - step 01: 

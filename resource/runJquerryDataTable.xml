@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Jquerry">
+	<parameter name="Url" value="https://blueimp.github.io/jQuery-File-Upload/" />
+	
+	<listeners>
+		<listener class-name = "commons.MethodListener" />
+		<listener class-name = "org.uncommons.reportng.HTMLReporter" />
+	</listeners>
+	<test name="Run on Chrome browser">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.jquery.upload.Level_6_uploadFile" />
+		</classes>
+	</test>
+
+
+
+
+</suite> 

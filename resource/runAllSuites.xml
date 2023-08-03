@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="All suite">
+
+	<suite-files>
+		<suite-file path="runJquerryDataTable.xml" />
+		<suite-file path="runTechpandaTestcases.xml" />
+	</suite-files>
+
+</suite> 
